@@ -1,3 +1,4 @@
+import React from 'react';
 import { List, ListItem, DelBtn } from './Contacts.styled';
 
 const Contacts = ({ contacts, onDelete }) => {
